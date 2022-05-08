@@ -1,3 +1,3 @@
 # HRMS
-# Using React-JS-Node-JS
-# CRUD
+## Using React-JS-Node-JS
+### CRUD
